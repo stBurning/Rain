@@ -1,0 +1,15 @@
+C:\Users\Константин\RiderProjects\WinFormsApp1\Rain\bin\Debug\netcoreapp3.1\Rain.exe
+C:\Users\Константин\RiderProjects\WinFormsApp1\Rain\bin\Debug\netcoreapp3.1\Rain.deps.json
+C:\Users\Константин\RiderProjects\WinFormsApp1\Rain\bin\Debug\netcoreapp3.1\Rain.runtimeconfig.json
+C:\Users\Константин\RiderProjects\WinFormsApp1\Rain\bin\Debug\netcoreapp3.1\Rain.runtimeconfig.dev.json
+C:\Users\Константин\RiderProjects\WinFormsApp1\Rain\bin\Debug\netcoreapp3.1\Rain.dll
+C:\Users\Константин\RiderProjects\WinFormsApp1\Rain\bin\Debug\netcoreapp3.1\Rain.pdb
+C:\Users\Константин\RiderProjects\WinFormsApp1\Rain\obj\Debug\netcoreapp3.1\Rain.csprojAssemblyReference.cache
+C:\Users\Константин\RiderProjects\WinFormsApp1\Rain\obj\Debug\netcoreapp3.1\Rain.Form1.resources
+C:\Users\Константин\RiderProjects\WinFormsApp1\Rain\obj\Debug\netcoreapp3.1\Rain.csproj.GenerateResource.cache
+C:\Users\Константин\RiderProjects\WinFormsApp1\Rain\obj\Debug\netcoreapp3.1\Rain.AssemblyInfoInputs.cache
+C:\Users\Константин\RiderProjects\WinFormsApp1\Rain\obj\Debug\netcoreapp3.1\Rain.AssemblyInfo.cs
+C:\Users\Константин\RiderProjects\WinFormsApp1\Rain\obj\Debug\netcoreapp3.1\Rain.csproj.CoreCompileInputs.cache
+C:\Users\Константин\RiderProjects\WinFormsApp1\Rain\obj\Debug\netcoreapp3.1\Rain.dll
+C:\Users\Константин\RiderProjects\WinFormsApp1\Rain\obj\Debug\netcoreapp3.1\Rain.pdb
+C:\Users\Константин\RiderProjects\WinFormsApp1\Rain\obj\Debug\netcoreapp3.1\Rain.genruntimeconfig.cache
