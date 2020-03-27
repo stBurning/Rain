@@ -12,5 +12,6 @@ Global
 		{7EC7FA1C-30E4-4600-A9DC-234BC940A75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EC7FA1C-30E4-4600-A9DC-234BC940A75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EC7FA1C-30E4-4600-A9DC-234BC940A75F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EC7FA1C-30E4-4600-A9DC-234BC940A75F}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
